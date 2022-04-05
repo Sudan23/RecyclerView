@@ -36,6 +36,12 @@ class MainActivity : AppCompatActivity() {
         itemsList.add("Item 11")
         itemsList.add("Item 12")
         itemsList.add("Item 13")
+        itemsList.add("Item 14")
+        itemsList.add("Item 15")
+        itemsList.add("Item 16")
+        itemsList.add("Item 17")
+        itemsList.add("Item 18")
+        itemsList.add("Item 19")
         recyclerViewAdapter.notifyDataSetChanged()
     }
 
